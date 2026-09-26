@@ -1,4 +1,1 @@
-- 👋 Salaam, I’m Muhammad Harris
-- 👀 I’m interested in programming and software development
-- 🌱 I’m currently learning Game Development.
-- 💞️ I’m looking to collaborate on programming projects to gain experience and build relations and skills
+
